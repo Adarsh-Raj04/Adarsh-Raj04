@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adarsh Raj
+- 💞️ I’m interested in Python
+- 🌱 I’m currently learning Java
+- 👀 I’m looking to collaborate with company which will deal with Data Sciences
+- 📫 How to reach me Mail Me - Adarsh.Raj.2004@outlook.com
