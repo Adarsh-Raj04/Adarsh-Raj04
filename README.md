@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adarsh-raj-04-portfolio.netlify.app](https://adarsh-raj-04-portfolio.netlify.app)
 
-- 💬 Ask me about **java , ML , Web Development**
+- 💬 Ask me about **java , Python , ML , Web Development**
 
 - 📫 How to reach me **adarsh.raj.2004@outlook.com**
 
