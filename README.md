@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-raj04&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-raj04" /> </p>
 
-- 🔭 I’m currently working on **AI enabled Laptop Trading Ecom Website**
+- 🔭 I’m currently working on **AI enabled medical web app**
 
 - 🌱 I’m currently learning **react**
 
