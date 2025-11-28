@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in GSK as a Data Engineer<br>I'm looking to collaborate on projects related to AI/ML<br>I'm currently learning AI<br>Ask me anything related to ML/AI
+I'm currently working in GSK as a Data and AI Engineer<br>I'm looking to collaborate on projects related to AI/ML<br>I'm currently learning AI<br>Ask me anything related to ML/AI
 
 
 ## 🌐 Socials:
