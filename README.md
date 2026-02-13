@@ -104,7 +104,7 @@ Owned development and optimisation of Spark-based ingestion pipelines on Databri
 ## 🎓 Education
 
 **B.Tech — Computer Science & Information Science Engineering**
-M.S. Ramaiah University of Applied Sciences, Bengaluru | 2020–2024 | **CGPA: 8.0/10.0**
+M.S. Ramaiah University of Applied Sciences, Bengaluru | 2020–2024 | **CGPA: 8.2/10.0**
 
 ---
 
