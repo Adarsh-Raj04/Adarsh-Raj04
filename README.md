@@ -6,21 +6,22 @@
 
 Building production AI systems, enterprise backend platforms, and intelligent developer tools.
 
-<p>
+<p align="center">
+
 <a href="https://adarshraj.in">
-<img src="https://img.shields.io/badge/Portfolio-adarshraj.in-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/adarsh-raj04">
-<img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Raj-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:Adarsh.Raj.2004@outlook.com">
-<img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook"/>
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
-<a href="https://github.com/adarshraj04">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Adarsh-Raj04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
