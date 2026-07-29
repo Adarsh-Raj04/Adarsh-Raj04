@@ -19,7 +19,7 @@ Building production AI systems, enterprise backend platforms, and intelligent de
 <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook"/>
 </a>
 
-<a href="https://github.com/adarsh-raj04">
+<a href="https://github.com/adarshraj04">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -43,7 +43,7 @@ My work combines **Applied AI**, **Backend Engineering**, **Data Engineering**, 
 - 🔎 Semantic Search
 - ☁ Azure Cloud Architecture
 - 📊 Databricks & Spark Data Engineering
-- 🚀 Developer Productivity Tools
+- 🗂 Metadata & Data Governance
 
 ---
 
@@ -51,13 +51,14 @@ My work combines **Applied AI**, **Backend Engineering**, **Data Engineering**, 
 
 | Metric | Achievement |
 |---------|------------:|
-| Enterprise Assets Indexed | **76K+** |
-| Governance Sync Improvement | **99.6%** |
-| Metadata Retrieval Improvement | **87.5%** |
-| Workflow Automation | **90%** |
-| Hours Saved Annually | **200+** |
-| Production Releases | **20+** |
-| Developers Reached | **50K+** |
+| Enterprise Assets Indexed | **76,000+** |
+| Search Relevance Improvement | **20–30%** |
+| Manual Rule-Authoring Effort Reduced | **70–80%** |
+| API Latency Reduction | **30–40%** |
+| Metadata Assets Under Lineage Tracking | **10,000+** |
+| Production Deployments Sustained | **20+** |
+| Enterprise Integrations | **3+** |
+| REST APIs Engineered | **20–30** |
 
 ---
 
@@ -65,31 +66,32 @@ My work combines **Applied AI**, **Backend Engineering**, **Data Engineering**, 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 **Mnemo** | OpenRAG platform for intelligent document search and AI chat | FastAPI · React · PostgreSQL · OpenAI |
+| 🔍 **Rover** | Enterprise AI search & knowledge platform for governed metadata retrieval | Azure AI Search · Azure OpenAI · FastAPI |
+| ⚡ **Augmented Data Quality** | AI-assisted enterprise data quality automation and governance | FastAPI · Azure OpenAI · Databricks · Ataccama |
+| 📘 **Business Glossary Generator** | Enterprise metadata automation platform | *(details in progress)* |
+| 🧠 **Mnemo** | OpenRAG platform for intelligent document search and AI chat | FastAPI · React · RAG · Vector Search |
+| 🩺 **MedResearch AI** | Medical research assistant built for the AWS AI for Bharat Hackathon | React · Docker · RAG · Hybrid Retrieval |
 | 🌐 **Portfolio** | Personal engineering portfolio showcasing AI & backend work | React · TailwindCSS |
-| 🔍 **Rover** | Enterprise semantic search platform for governed metadata | Azure AI Search · OpenAI · FastAPI |
-| ⚡ **Augmented DQ** | AI-assisted enterprise data quality governance | Azure · Collibra · Python |
-| 📘 **Business Glossary Generator** | LLM-powered metadata automation | OpenAI · FastAPI |
-| 🩺 **MedResearch AI** | Medical research assistant powered by LLMs | LangChain · OpenAI |
 
 ---
 
 # 💼 Professional Experience
 
-## Applied AI & Backend Engineer
+## Data & AI Engineer
+### Applied AI & Backend Engineer
 
-**GSK (GlaxoSmithKline)**
+**GSK (GlaxoSmithKline)** · Jan 2024 – Present
 
 Building production AI systems across enterprise metadata management, governance, backend engineering, semantic search, and intelligent automation.
 
 Highlights include:
 
-- Built enterprise semantic search using OpenAI embeddings and Azure AI Search.
-- Developed production FastAPI backend services.
-- Engineered Spark pipelines on Databricks.
-- Automated governance workflows across ServiceNow and Collibra.
-- Designed cloud-native Azure architectures.
-- Owned CI/CD pipelines and production deployments.
+- Built enterprise semantic search using Azure OpenAI and Azure AI Search, indexing 76,000+ enterprise assets.
+- Designed an AI-assisted automation layer that cut manual data-quality rule-authoring effort by 70–80%.
+- Developed production FastAPI backend services and 20–30 reusable REST APIs across Databricks, ServiceNow, Collibra, and ARIS.
+- Engineered Spark SQL pipelines on Databricks and built a metadata lineage graph with NetworkX.
+- Modernized observability with centralized logging and Azure Monitor alerting, cutting API latency by 30–40%.
+- Served as Release Lead, coordinating production deployments, release validation, and incident resolution.
 
 ---
 
@@ -105,11 +107,12 @@ Highlights include:
 
 ## AI & Machine Learning
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure)
 ![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-4F46E5?style=flat-square)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-0EA5E9?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat-square)
 
 ---
 
@@ -117,35 +120,50 @@ Highlights include:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 ![REST APIs](https://img.shields.io/badge/REST_API-2563EB?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver)
 
 ---
 
 ## Data Engineering
 
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark)
+![Apache Spark](https://img.shields.io/badge/Spark_SQL-E25A1C?style=flat-square&logo=apachespark)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-0B5CAD?style=flat-square)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square)
 
 ---
 
-## Cloud & DevOps
+## Enterprise Platforms
+
+![Collibra](https://img.shields.io/badge/Collibra-00A99D?style=flat-square)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+![ARIS](https://img.shields.io/badge/ARIS-004A99?style=flat-square)
+![Ataccama](https://img.shields.io/badge/Ataccama-1B2A4A?style=flat-square)
+
+---
+
+## Cloud, Monitoring & DevOps
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry)
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Best Project Award — M. S. Ramaiah University
-- 🏅 Top 5 GeeksforGeeks Rank (University)
+**At GSK:**
+- 🥉 2x Bronze Award — Metadata Platform & DevOps Automation; Supply Chain Warriors (Bronze Finalist among 44 teams)
+- 🌟 Multiple Quarterly Recognition Awards for enterprise AI innovation, metadata engineering, and AI-powered search
+
+**Academic:**
+- 🥇 Best Project Award — M.S. Ramaiah University
+- 🏅 Rank 5 — GeeksforGeeks (University)
 - 🏁 Rank 281 — GFG Coding Contest 119
-- 📺 50K+ tutorial views helping developers learn web development
 
 ---
 
@@ -153,17 +171,17 @@ Highlights include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh-raj04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshraj04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-raj04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=adarsh-raj04&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshraj04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-raj04&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adarshraj04&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshraj04&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -171,9 +189,9 @@ Highlights include:
 
 # 🎓 Education
 
-**B.Tech — Information Science & Engineering**
+**B.Tech — Computer Science & Information Science**
 
-M. S. Ramaiah University of Applied Sciences
+M.S. Ramaiah University of Applied Sciences
 
 CGPA: **8.2 / 10**
 
@@ -182,6 +200,7 @@ CGPA: **8.2 / 10**
 # 📜 Certifications
 
 - Microsoft & LinkedIn — Career Essentials in Generative AI
+- Google — Responsible AI
 - HackerRank — SQL (Advanced)
 - Cisco — Introduction to Cybersecurity
 - Cognitive Class — Machine Learning with Python
@@ -196,6 +215,6 @@ CGPA: **8.2 / 10**
 
 Portfolio • LinkedIn • GitHub • Email
 
-<img src="https://komarev.com/ghpvc/?username=adarsh-raj04&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=adarshraj04&style=for-the-badge&color=0ea5e9"/>
 
 </div>
