@@ -52,14 +52,15 @@ My work combines **Applied AI**, **Backend Engineering**, **Data Engineering**, 
 
 | Metric | Achievement |
 |---------|------------:|
-| Enterprise Assets Indexed | **76,000+** |
-| Search Relevance Improvement | **20–30%** |
-| Manual Rule-Authoring Effort Reduced | **70–80%** |
-| API Latency Reduction | **30–40%** |
-| Metadata Assets Under Lineage Tracking | **10,000+** |
-| Production Deployments Sustained | **20+** |
-| Enterprise Integrations | **3+** |
-| REST APIs Engineered | **20–30** |
+| Enterprise Product Delivered | **5+** |
+| Enterprise Assets Indexed | **3M+** |
+| Search Relevance Improvement | **40%** |
+| Manual Rule-Authoring Effort Reduced | **80%** |
+| API Latency Reduction | **50%** |
+| Metadata Assets Under Lineage Tracking | **1M+** |
+| Production Deployments Lead | **20+** |
+| Enterprise Integrations | **5+** |
+| REST APIs Engineered | **50** |
 
 ---
 
@@ -67,7 +68,7 @@ My work combines **Applied AI**, **Backend Engineering**, **Data Engineering**, 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔍 **Rover** | Enterprise AI search & knowledge platform for governed metadata retrieval | Azure AI Search · Azure OpenAI · FastAPI |
+| 🔍 **Rover** | Marketplace for Enterprise Assets · Enterprise AI search & knowledge platform for governed metadata retrieval | Azure AI Search · Azure OpenAI · FastAPI |
 | ⚡ **Augmented Data Quality** | AI-assisted enterprise data quality automation and governance | FastAPI · Azure OpenAI · Databricks · Ataccama |
 | 📘 **Business Glossary Generator** | Enterprise metadata automation platform | *(details in progress)* |
 | 🧠 **Mnemo** | OpenRAG platform for intelligent document search and AI chat | FastAPI · React · RAG · Vector Search |
