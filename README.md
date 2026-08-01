@@ -69,8 +69,8 @@ My work combines **Applied AI**, **Backend Engineering**, **Data Engineering**, 
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🔍 **Rover** | Marketplace for Enterprise Assets · Enterprise AI search & knowledge platform for governed metadata retrieval | Azure AI Search · Azure OpenAI · FastAPI |
-| ⚡ **Augmented Data Quality** | AI-assisted enterprise data quality automation and governance | FastAPI · Azure OpenAI · Databricks · Ataccama |
-| 📘 **Business Glossary Generator** | Enterprise metadata automation platform | *(details in progress)* |
+| ⚡ **Augmented Data Quality** | AI-assisted enterprise data quality automation and governance | FastAPI · Azure OpenAI · Databricks · Collibra · ARIS · SRDS |
+| 📘 **Business Glossary Generator** | Enterprise metadata automation platform | Databricks · Azure OpenAI · Collibra |
 | 🧠 **Mnemo** | OpenRAG platform for intelligent document search and AI chat | FastAPI · React · RAG · Vector Search |
 | 🩺 **MedResearch AI** | Medical research assistant built for the AWS AI for Bharat Hackathon | React · Docker · RAG · Hybrid Retrieval |
 | 🌐 **Portfolio** | Personal engineering portfolio showcasing AI & backend work | React · TailwindCSS |
