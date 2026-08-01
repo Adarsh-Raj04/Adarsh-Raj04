@@ -221,7 +221,7 @@ CGPA: **8.2**
 
 ### Let's build intelligent software.
 
-Portfolio • LinkedIn • GitHub • Email
+[Portfolio](https://adarshraj.in) • [LinkedIn](https://www.linkedin.com/in/adarsh-raj04/) • [GitHub](https://github.com/Adarsh-Raj04) • [Email](mailto:adarsh.raj.2004@outlook.com)
 
 <img src="https://komarev.com/ghpvc/?username=adarshraj04&style=for-the-badge&color=0ea5e9"/>
 
