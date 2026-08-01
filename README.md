@@ -165,13 +165,13 @@ Highlights include:
 # 🏆 Achievements
 
 **At GSK:**
-- 🥉 3x Bronze Award — Metadata Platform & DevOps Automation; Supply Chain Warriors (Bronze Finalist among 44 teams)
+- 🥉 3x Bronze Award - Metadata Platform & DevOps Automation; Supply Chain Warriors (Bronze Finalist among 44 teams)
 - 🌟 Multiple Quarterly Recognition Awards for enterprise AI innovation, metadata engineering, and AI-powered search
 
 **Academic:**
-- 🥇 Best Project Award — M.S. Ramaiah University
-- 🏅 Rank 5 — GeeksforGeeks (University)
-- 🏁 AIR 281 — GFG Coding Contest 119
+- 🥇 Best Project Award - M.S. Ramaiah University
+- 🏅 Rank 5 - GeeksforGeeks (University)
+- 🏁 AIR 281 - GFG Coding Contest 119
 
 ---
 
