@@ -79,8 +79,7 @@ My work combines **Applied AI**, **Backend Engineering**, **Data Engineering**, 
 
 # 💼 Professional Experience
 
-## Data & AI Engineer
-### Applied AI & Backend Engineer
+## Data & AI Engineer | GSC Enterprise AI Data Governance 
 
 **GSK (GlaxoSmithKline)** · Jan 2024 – Present
 
