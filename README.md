@@ -191,7 +191,7 @@ Highlights include:
 
 # 🎓 Education
 
-**B.Tech — Computer Science & Information Science**
+**B.Tech - Computer Science & Information Science**
 
 M.S. Ramaiah University of Applied Sciences
 
@@ -201,13 +201,13 @@ CGPA: **8.2**
 
 # 📜 Certifications
 
-- Microsoft & LinkedIn — Career Essentials in Generative AI
-- Google — Responsible AI
-- HackerRank — SQL (Advanced)
-- Cisco — Introduction to Cybersecurity
-- Cognitive Class — Machine Learning with Python
-- UiPath × GeeksforGeeks — Build Smarter Scalable AI Agents
-- Udemy — Python Masterclass
+- Microsoft & LinkedIn - Career Essentials in Generative AI
+- Google - Responsible AI
+- HackerRank - SQL (Advanced)
+- Cisco - Introduction to Cybersecurity
+- Cognitive Class - Machine Learning with Python
+- UiPath × GeeksforGeeks - Build Smarter Scalable AI Agents
+- Udemy - Python Masterclass
 
 ---
 
