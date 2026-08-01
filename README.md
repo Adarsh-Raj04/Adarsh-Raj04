@@ -88,11 +88,11 @@ Building production AI systems across enterprise metadata management, governance
 
 Highlights include:
 
-- Built enterprise semantic search using Azure OpenAI and Azure AI Search, indexing 76,000+ enterprise assets.
-- Designed an AI-assisted automation layer that cut manual data-quality rule-authoring effort by 70–80%.
-- Developed production FastAPI backend services and 20–30 reusable REST APIs across Databricks, ServiceNow, Collibra, and ARIS.
+- Built enterprise semantic search using Azure OpenAI and Azure AI Search, indexing 3M+ enterprise assets.
+- Designed an AI-assisted automation layer that cut manual data-quality rule-authoring effort by 80%.
+- Developed production FastAPI backend services and 50+ reusable REST APIs across Databricks, ServiceNow, Collibra, and ARIS.
 - Engineered Spark SQL pipelines on Databricks and built a metadata lineage graph with NetworkX.
-- Modernized observability with centralized logging and Azure Monitor alerting, cutting API latency by 30–40%.
+- Modernized observability with centralized logging and Azure Monitor alerting, cutting API latency by 90%.
 - Served as Release Lead, coordinating production deployments, release validation, and incident resolution.
 
 ---
@@ -159,13 +159,13 @@ Highlights include:
 # 🏆 Achievements
 
 **At GSK:**
-- 🥉 2x Bronze Award — Metadata Platform & DevOps Automation; Supply Chain Warriors (Bronze Finalist among 44 teams)
+- 🥉 3x Bronze Award — Metadata Platform & DevOps Automation; Supply Chain Warriors (Bronze Finalist among 44 teams)
 - 🌟 Multiple Quarterly Recognition Awards for enterprise AI innovation, metadata engineering, and AI-powered search
 
 **Academic:**
 - 🥇 Best Project Award — M.S. Ramaiah University
 - 🏅 Rank 5 — GeeksforGeeks (University)
-- 🏁 Rank 281 — GFG Coding Contest 119
+- 🏁 AIR 281 — GFG Coding Contest 119
 
 ---
 
@@ -195,7 +195,7 @@ Highlights include:
 
 M.S. Ramaiah University of Applied Sciences
 
-CGPA: **8.2 / 10**
+CGPA: **8.2**
 
 ---
 
